@@ -1,4 +1,3 @@
-package Day20;
 import java.util.*;
 public class oddnotriangle {
     public static void main(String[] args) {
