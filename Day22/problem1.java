@@ -1,4 +1,4 @@
-package Day22;
+package Day22; // markas related array problem
 
 public class problem1 {
     public static void main(String[] args) {

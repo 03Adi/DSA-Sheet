@@ -1,4 +1,4 @@
-package Day22;
+package Day22; // #Day 22 sum of arrar length
 
 public class sumofarray {
     public static void main(String[] args) {

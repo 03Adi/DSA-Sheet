@@ -1,4 +1,4 @@
-package Day22;
+package Day22; // user input program for n size array
 import java.util.*;
 public class Nsizearray {
     public static void main(String[] args) {

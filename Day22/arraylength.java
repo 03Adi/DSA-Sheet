@@ -1,4 +1,4 @@
-package Day22;
+package Day22; //find the length of an array
 
 public class arraylength {
     public static void main(String[] args) {

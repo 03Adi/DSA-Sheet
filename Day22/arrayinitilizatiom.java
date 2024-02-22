@@ -1,4 +1,4 @@
-package Day22;
+package Day22;//arrayintilization
 import java.util.*;
 public class arrayinitilizatiom {
     public static void main(String[] args) {
