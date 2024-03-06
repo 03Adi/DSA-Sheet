@@ -1,7 +1,7 @@
 package Day35;
 
 /**
- * Dutchflag
+ * Dutchflag Meyhod 01
  */
 public class Dutchflag {
 
