@@ -20,20 +20,5 @@ public class palindronnumber {
         else
         System.out.println("not a palindrom");
 
-
-        // System.out.println("Enter name");
-        // String st=sc.next();
-        // String rev="";
-
-        // for(int i=st.length()-1;i>=0;i--){
-        //     rev=rev+st.charAt(i);
-        // }
-
-        // if(st.equals(rev)){
-        //     System.out.println("entered string is palindrom number: ");
-        // }
-        // else{
-        //     System.out.println("not a palindrom number: ");
-        // }
     }
 }
