@@ -5,6 +5,10 @@ public class multidimetionalArray {
         
         // 2D and multidimentional Array ------
 
-        // 
+        // int[][] grid={{1,2},{2,3},{3,1}};
+
+        // for(int ele: grid){
+        //     System.out.print(ele+" ");
+        // }
     }
 }
