@@ -5,6 +5,7 @@ public class addmatrix {
         int[][] a={{1,9,3},{2,3,4},{6,2,1}};
         int[][] b={{9,7,4},{3,5,6},{4,6,4}};
         
+        //basically the sum of two array in matrix form by row to column in parllel way---
 
         int m=a.length;
         int n=b[0].length;
