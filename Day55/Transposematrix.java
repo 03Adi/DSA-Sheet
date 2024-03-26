@@ -24,3 +24,11 @@ public class Transposematrix {
 
         }
 }
+
+// basically transpose matrix ko store krne ke liye we are used the some common way----
+// int[][] transpose=new int[n][m]//row / column
+// for loop wahi same use hoga
+// after for loop
+// tranpose arr[i][j]=arr[j][i];
+// sout(transpose[i][j]+" ")
+// sout() -- for next line
