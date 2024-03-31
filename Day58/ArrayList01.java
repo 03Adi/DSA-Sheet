@@ -27,7 +27,7 @@ public class ArrayList01 {
         
 
         // this is my way to print the array in easy and cool form ----
-        
+         
         // for (int i = 0; i < store.size(); i++) {
         //     List<Integer> a=store.get(i);
         //     for (int j = 0; j <a.size(); j++) {
