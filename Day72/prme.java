@@ -10,15 +10,17 @@ public class prme {
         int count =0;
 
         //now use for loop for all other numbers---
-        for(int i=0;i<=n;i++){
+        for(int i=2;i<=n;i++){
             if(n%i==0){
                 count++;
+                break;
             }
         }
+        sc.close();
 
 
         // baically sbse phle 2 ko alg kr liya kuki ye prime no hai ----
-        if(count==2)
+        if(n==2|| count==0)
         System.out.println("entered no is prime no: "+n);
         else
         System.out.println("Not a prime no: "+n);

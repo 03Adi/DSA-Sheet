@@ -1,0 +1,546 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "primenoo",
+            "request": "launch",
+            "mainClass": "Day73.primenoo",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ABCtriangle",
+            "request": "launch",
+            "mainClass": "Day19.ABCtriangle",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Notriangle",
+            "request": "launch",
+            "mainClass": "Day19.Notriangle",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "startriangle",
+            "request": "launch",
+            "mainClass": "Day19.startriangle",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "starpluspattern",
+            "request": "launch",
+            "mainClass": "Day20.starpluspattern",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Arraysyntax",
+            "request": "launch",
+            "mainClass": "Day21.Arraysyntax",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Binarytriangle",
+            "request": "launch",
+            "mainClass": "Day21.Binarytriangle",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "starmultiplication",
+            "request": "launch",
+            "mainClass": "Day21.starmultiplication",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Nsizearray",
+            "request": "launch",
+            "mainClass": "Day22.Nsizearray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "arrayinitilizatiom",
+            "request": "launch",
+            "mainClass": "Day22.arrayinitilizatiom",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "arraylength",
+            "request": "launch",
+            "mainClass": "Day22.arraylength",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "problem1",
+            "request": "launch",
+            "mainClass": "Day22.problem1",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sumofarray",
+            "request": "launch",
+            "mainClass": "Day22.sumofarray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "arraytraverse",
+            "request": "launch",
+            "mainClass": "Day23.arraytraverse",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Day23.linearsearch",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "maxno",
+            "request": "launch",
+            "mainClass": "Day23.maxno",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Day26.Leapyear",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch02",
+            "request": "launch",
+            "mainClass": "Day26.linearsearch02",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "linersearch",
+            "request": "launch",
+            "mainClass": "Day26.linersearch",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "findmaxno",
+            "request": "launch",
+            "mainClass": "Day27.findmaxno",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "secondlargest",
+            "request": "launch",
+            "mainClass": "Day27.secondlargest",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sortarray",
+            "request": "launch",
+            "mainClass": "Day27.sortarray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "basicoperationofarray",
+            "request": "launch",
+            "mainClass": "Day28.basicoperationofarray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "copofarray",
+            "request": "launch",
+            "mainClass": "Day28.copofarray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "foreachloop",
+            "request": "launch",
+            "mainClass": "Day28.foreachloop",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "passbyreference",
+            "request": "launch",
+            "mainClass": "Day28.passbyreference",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "Day29.reversearray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "Day29.twosum",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "method2",
+            "request": "launch",
+            "mainClass": "Day32.method2",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "osand1s",
+            "request": "launch",
+            "mainClass": "Day32.osand1s",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "palindronnumber",
+            "request": "launch",
+            "mainClass": "Day33.palindronnumber",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sortarray(1)",
+            "request": "launch",
+            "mainClass": "Day34.sortarray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Dutchflag",
+            "request": "launch",
+            "mainClass": "Day35.Dutchflag",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "dutchflag",
+            "request": "launch",
+            "mainClass": "Day36.dutchflag",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sortingarray",
+            "request": "launch",
+            "mainClass": "Day37.sortingarray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "Day39.mergesort",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "nextgreatestno",
+            "request": "launch",
+            "mainClass": "Day40.nextgreatestno",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Day44",
+            "request": "launch",
+            "mainClass": "Day44.Day44",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "intilaization",
+            "request": "launch",
+            "mainClass": "Day46.intilaization",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "largestelement",
+            "request": "launch",
+            "mainClass": "Day46.largestelement",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "length2D",
+            "request": "launch",
+            "mainClass": "Day46.length2D",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "multidimentionalArray",
+            "request": "launch",
+            "mainClass": "Day46.multidimentionalArray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "rollnumbermarksdata",
+            "request": "launch",
+            "mainClass": "Day46.rollnumbermarksdata",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "secondlargest(1)",
+            "request": "launch",
+            "mainClass": "Day46.secondlargest",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sumof2Darray",
+            "request": "launch",
+            "mainClass": "Day46.sumof2Darray",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "userinputmultidimentional",
+            "request": "launch",
+            "mainClass": "Day46.userinputmultidimentional",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "addmatrix",
+            "request": "launch",
+            "mainClass": "Day49.addmatrix",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Transposematrix",
+            "request": "launch",
+            "mainClass": "Day55.Transposematrix",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "matrixes",
+            "request": "launch",
+            "mainClass": "Day56.matrixes",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "Day56.practice",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "transformintotranspose",
+            "request": "launch",
+            "mainClass": "Day56.transformintotranspose",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "wavematrix",
+            "request": "launch",
+            "mainClass": "Day57.wavematrix",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList01",
+            "request": "launch",
+            "mainClass": "Day58.ArrayList01",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Spiralmatrix",
+            "request": "launch",
+            "mainClass": "Day58.Spiralmatrix",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Pascals",
+            "request": "launch",
+            "mainClass": "Day60.Pascals",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "flippingmatrix",
+            "request": "launch",
+            "mainClass": "Day61.flippingmatrix",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "matrixmultiplication",
+            "request": "launch",
+            "mainClass": "Day61.matrixmultiplication",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "Stringbasics",
+            "request": "launch",
+            "mainClass": "Day62.Stringbasics",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "countvowel",
+            "request": "launch",
+            "mainClass": "Day62.countvowel",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "findelement",
+            "request": "launch",
+            "mainClass": "Day62.findelement",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "zeroselement",
+            "request": "launch",
+            "mainClass": "Day62.zeroselement",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "vowelcounting",
+            "request": "launch",
+            "mainClass": "Day63.vowelcounting",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "practice(1)",
+            "request": "launch",
+            "mainClass": "Day64.practice",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "largestelement(1)",
+            "request": "launch",
+            "mainClass": "Day66.largestelement",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "leapyearornot",
+            "request": "launch",
+            "mainClass": "Day66.leapyearornot",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "positiveandnegative",
+            "request": "launch",
+            "mainClass": "Day66.positiveandnegative",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sumofnaturalno",
+            "request": "launch",
+            "mainClass": "Day66.sumofnaturalno",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "sumofnoingivenrange",
+            "request": "launch",
+            "mainClass": "Day66.sumofnoingivenrange",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "greatestofthree",
+            "request": "launch",
+            "mainClass": "Day67.greatestofthree",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "largestelement(2)",
+            "request": "launch",
+            "mainClass": "Day67.largestelement",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "Day67.leapyear",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "leapyear(1)",
+            "request": "launch",
+            "mainClass": "Day71.leapyear",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "primeno",
+            "request": "launch",
+            "mainClass": "Day71.primeno",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "prme",
+            "request": "launch",
+            "mainClass": "Day72.prme",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "floydstriangle",
+            "request": "launch",
+            "mainClass": "floydstriangle",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
+        {
+            "type": "java",
+            "name": "oddnotriangle",
+            "request": "launch",
+            "mainClass": "oddnotriangle",
+            "projectName": "DSA-Sheet_f9e39b37"
+        }
+    ]
+}
