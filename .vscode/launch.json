@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "day102.basic",
+            "projectName": "DSA-Sheet_f9e39b37"
+        },
         {
             "type": "java",
             "name": "primenoo",
