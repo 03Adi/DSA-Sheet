@@ -1,1 +1,1 @@
-DSA Problem Day Wise
+Basic DSA Problem
